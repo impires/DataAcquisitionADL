@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PhD Sound Fingerprinting</string>
+
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+    <string name="recording">Recording</string>
+    <string name="waiting">Waiting</string>
+    <string name="error">Error !!!</string>
+    <string name="select">Select ADL</string>
+
+    <string-array name="spinnerItems">
+        <item>Undifferentiated</item>
+        <item>Walking/Street</item>
+        <item>Running/Street</item>
+        <item>Going Down Stairs/House</item>
+        <item>Sleeping/Bedroom</item>
+        <item>Jumping/Street</item>
+        <item>Going Up Stairs/House</item>
+        <item>Gym</item>
+        <item>Bar</item>
+        <item>Classroom</item>
+        <item>Library</item>
+        <item>Driving/Travelling by car</item>
+        <item>Kitchen</item>
+        <item>Standing/Watching TV</item>
+    </string-array>
+</resources>
